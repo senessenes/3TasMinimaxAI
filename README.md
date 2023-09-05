@@ -13,7 +13,7 @@ An AI for the traditional Turkish Game called "Üç Taş" or "Three Men Morris" 
 - Run  `python runner.py` in the terminal.
 - Enjoy the game!
 
-# Playing 
+# How to play?
 
 - Use left click to move or select a piece.
 - If you selected a piece unintetionally use right click to deselect it.
